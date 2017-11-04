@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Food Storage Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_product_name">Nombre del producto</string>
+    <string name="hint_product_name">Ej. \"Lentejas 5mm\"</string>
+    <string name="label_product_category">Categoría</string>
+    <string name="hint_product_category">Selecciona una categoría</string>
+</resources>
